@@ -1,5 +1,5 @@
 // Input : Grammar.
-// Output : First, Follow sets. Parse Table. Accept/Reject verdict of parser.
+// Output : New Grammar after removing Left Recurion.
 // author : Sahil Prakash
 
 #include<bits/stdc++.h>
